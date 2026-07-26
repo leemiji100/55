@@ -23,6 +23,12 @@ UI 디자인 이미지 (3장 이상)
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/3ee9758f-8f73-4d0f-ad3f-b07753b0360f" />
 (초안)
 
+
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1bf0c865-a9ed-4b2b-9a06-3fe12d3bc2cc" />
+<img width="941" height="1672" alt="image" src="https://github.com/user-attachments/assets/1abc0cc6-bcf2-4651-b08a-348c6f0fe9ff" />
+
+(수정)
 ① 발화 주체가 한 명뿐이다 (가장 큰 문제)
 화면에 있는 텍스트가 전부 캐릭터의 독백이에요. "우와~ 신난다!", "무엇을 바꿀까?" — 대화는 최소 두 사람의 발화가 동시에 보여야 성립하는데, 지금은 캐릭터가 혼잣말하는 앱으로 읽힙니다.
 
@@ -54,12 +60,6 @@ UI 디자인 이미지 (3장 이상)
 설정
 항목 텍스트만 교체: 성격·말투 바꾸기("어떤 말투로 얘기할까?"), 추억 보관함("우리가 나눈 이야기 다시 보기")
 기존 독백 말풍선은 안내 역할이라 그대로 유지
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1bf0c865-a9ed-4b2b-9a06-3fe12d3bc2cc" />
-<img width="941" height="1672" alt="image" src="https://github.com/user-attachments/assets/1abc0cc6-bcf2-4651-b08a-348c6f0fe9ff" />
-
-(수정)
-
 
 
 
