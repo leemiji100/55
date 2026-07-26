@@ -7,10 +7,9 @@ UI 디자인 이미지 (3장 이상)
 메인 페이지, 목록 페이지, 상세 페이지 등 화면 역할이 구분되는 구성
 
 
-<img width="1081" height="832" alt="image" src="https://github.com/user-attachments/assets/72b1d0ee-8c9a-410f-a328-15359aafc25c" />
 작업 로그 문서 (1개)
 디자인 생성에 사용한 프롬프트 기록
-
+<img width="1081" height="832" alt="image" src="https://github.com/user-attachments/assets/72b1d0ee-8c9a-410f-a328-15359aafc25c" />
 
 
 프롬프트 수정 과정 (초안 → 수정 → 최종)
@@ -18,6 +17,18 @@ UI 디자인 이미지 (3장 이상)
 <img width="917" height="690" alt="image" src="https://github.com/user-attachments/assets/005d35b2-3480-4bd3-a6f1-2e416b9f208b" />
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/da46c80d-8b39-4268-8e27-373410b31a71" />
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0947a4bc-7e46-4c91-ab68-64912e3ad1ad" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/3ee9758f-8f73-4d0f-ad3f-b07753b0360f" />
+(초안)
+
+
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1bf0c865-a9ed-4b2b-9a06-3fe12d3bc2cc" />
+<img width="941" height="1672" alt="image" src="https://github.com/user-attachments/assets/1b4f3998-3ddf-49d7-8616-30502d5c3f1b" />
+
+(수정)
+
+
+
 
 
 
@@ -45,7 +56,7 @@ AI 생성 이미지의 일관성을 유지하기 위한 방법(시드 고정, �
 다음 요구사항을 모두 만족해야 한다.
 
 이미지 생성
-이미지 생성 AI 도구(네이토 , 챗gpt)를 1개 이상 사용한다
+이미지 생성 AI 도구(네이토 ,제미나이, 챗gpt)를 1개 이상 사용한다
 
 최소 3개 이상의 화면(메인 페이지, 목록 페이지, 상세 페이지 등)을 생성한다.
 
@@ -73,7 +84,6 @@ AI 생성 이미지의 일관성을 유지하기 위한 방법(시드 고정, �
 
 
 프로토타입 제작
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/3ee9758f-8f73-4d0f-ad3f-b07753b0360f" />
 
 
 
