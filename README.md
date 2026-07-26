@@ -477,6 +477,8 @@ Figma 등 디자인 도구를 사용하여 생성된 이미지를 배치한다.
 
 https://www.figma.com/make/8uVh7bnrv70MK5JDyfKPVl/Icon-based-screen-navigation?t=tha1kmOe8Lxv1SRJ-1
 
+https://www.figma.com/make/Ruoprzcu5Ehd7SVuBlrABV/Prototype-AI-Tamagotchi-App?fullscreen=1&t=jxQI5heEA6cVe1JC-1
+
 
 간략한 설명
 
