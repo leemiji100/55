@@ -475,9 +475,9 @@ Figma 등 디자인 도구를 사용하여 생성된 이미지를 배치한다.
 화면 간 이동 흐름을 나타내는 클릭 가능 영역(Hotspot) 또는 화면 전환을 표시한다.
 
 
-https://www.figma.com/make/8uVh7bnrv70MK5JDyfKPVl/Icon-based-screen-navigation?t=tha1kmOe8Lxv1SRJ-1
+https://www.figma.com/make/8uVh7bnrv70MK5JDyfKPVl/Icon-based-screen-navigation?t=1IZ2x7TIFFYrNnfh-20&fullscreen=1
 
-https://www.figma.com/make/Ruoprzcu5Ehd7SVuBlrABV/Prototype-AI-Tamagotchi-App?p=f&t=6KzBObM86fevxIDP-0&fullscreen=1
+
 
 
 간략한 설명
