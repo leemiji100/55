@@ -3,8 +3,11 @@
 UI 디자인 이미지 (3장 이상)
 서비스의 핵심 기능을 시각적으로 표현한 모바일 또는 웹 UI 디자인 이미지
 메인 페이지, 목록 페이지, 상세 페이지 등 화면 역할이 구분되는 구성
+<img width="463" height="821" alt="image" src="https://github.com/user-attachments/assets/40130a6c-dcc6-477c-96c8-22c73ab68968" />
 
+<img width="463" height="821" alt="image" src="https://github.com/user-attachments/assets/c79de380-8a7d-47a6-aded-1c2b98928513" />
 
+<img width="390" height="693" alt="image" src="https://github.com/user-attachments/assets/a1837644-4475-4af0-97f9-d9c246e70162" />
 
 
 
